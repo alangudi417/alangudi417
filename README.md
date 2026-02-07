@@ -2,7 +2,7 @@
 I come from a Business Analytics background with experience in pricing strategy, reporting, and operational analytics, now turning to Data Scientist. I enjoy solving complex problems using data, statistics, and machine learning.
 Passionate about transforming data into actionable business insights.
 
-## 🧠 Some key things about me
+## Some key things about me
 - 📊 Strong focus on Exploratory Data Analysis (EDA) and ETL processes  
 - 🤖 Currently expanding skills in Machine Learning and Predictive Modeling  
 - 💼 Business-driven mindset with experience translating business needs into data solutions  
