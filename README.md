@@ -8,23 +8,23 @@ Passionate about transforming data into actionable business insights.
 - 💼 Business-driven mindset with experience translating business needs into data solutions  
 - 🌎 Open to remote and international opportunities  
 
-## 🛠️ Tech Stack
-### 📌 Programming & Data
+##  Tech Stack
+###  Programming & Data
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - SQL (MySQL, SQLite)
 
-### 📊 Data Visualization & BI
+###  Data Visualization & BI
 - Power BI
 - Excel (Advanced + VBA)
 
-### 🔄 Data Science & Analytics
+###  Data Science & Analytics
 - Exploratory Data Analysis (EDA)
 - ETL & Data Cleaning
 - Statistical Analysis
 - Feature Engineering
 - Predictive Modeling
 
-### 🏢 Business & Systems Tools
+###  Business & Systems Tools
 - Salesforce (CRM)
 - SAP (ERP)
 - Jira
