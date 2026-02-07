@@ -8,7 +8,7 @@ Passionate about transforming data into actionable business insights.
 - 💼 Business-driven mindset with experience translating business needs into data solutions  
 - 🌎 Open to remote and international opportunities  
 
-##  Tech Stack
+## ⚡ Tech Stack
 ###  Programming & Data
 - Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
 - SQL (MySQL, SQLite)
